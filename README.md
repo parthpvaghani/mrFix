@@ -18,5 +18,5 @@ Application available on Google Drive for Testing and How to install is given in
 https://drive.google.com/drive/folders/1mdlttg7G5MkELD-LQO4zHftQ4zmPipYS?usp=sharing
 
 
-mrFix App Demo on Youtube 
+mrFix App Demo on Youtube - this solution deployed to the hololens. we can achieve it for other devices too like android ios 
 https://youtu.be/0EqW0yh8iJU
