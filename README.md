@@ -14,9 +14,9 @@ AR (Augmented Reality) based Instructions on expensive machinery would save mone
 This application solution scenario can be applicable to the given domain - - Automotive / Industry 4.0 / Manufacturing Plant
 
 
-Application available on Google Drive for Testing and How to install is given in README-installation.pdf
-https://drive.google.com/drive/folders/1mdlttg7G5MkELD-LQO4zHftQ4zmPipYS?usp=sharing
+Application available on Google Drive for Testing Contact me @parthvaghani14@gmail.com
+
 
 
 mrFix App Demo on Youtube - this solution deployed to the hololens. we can achieve it for other devices too like android ios 
-https://youtu.be/0EqW0yh8iJU
+https://youtu.be/HLBGJ072Y3g
